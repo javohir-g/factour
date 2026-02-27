@@ -1,0 +1,81 @@
+{
+  "navbar": {
+    "book": "Actual Tours",
+    "links": ["Home", "About", "Factories", "Gallery", "Contact"],
+    "language": "EN/RU",
+    "menu": "MENU"
+  },
+  "hero": {
+    "welcome": "Welcome to Factour",
+    "subtitle": "Pushing the Boundaries"
+  },
+  "about": {
+    "title": "About Us",
+    "prefix": "Factour",
+    "text": " is where curiosity meets creation. Our mission is to inspire people through the discovery of iconic brands and their fascinating stories. From the roar of Ferrari engines to the fine craftsmanship of Lindt chocolate, we bring you closer to excellence. We organize authentic factory tours where innovation, art, and passion intertwine. Join us and experience the essence of excellence in motion.",
+    "button": "Learn More"
+  },
+  "factories": {
+    "title": "Factories",
+    "arduino": {
+      "title": "Arduino",
+      "desc": "Discover where technology meets imagination. Visit Arduino’s headquarters and witness how open-source innovation is shaping the world of electronics.",
+      "button": "Learn More"
+    },
+    "ferrari": {
+      "title": "Ferrari",
+      "desc": "Step into the world of speed and excellence. Explore Ferrari’s legendary factory and see how passion turns into performance.",
+      "button": "Learn More"
+    },
+    "lindt": {
+      "title": "Lindt",
+      "desc": "Taste the tradition of Swiss perfection. Visit Lindt’s factory and discover the artistry behind the world’s most beloved chocolate.",
+      "button": "Learn More"
+    },
+    "aurora": {
+      "title": "Aurora",
+      "desc": "Explore the fine art of Italian pen-making. At Aurora, every pen tells a story of precision, elegance, and timeless craftsmanship.",
+      "button": "Learn More"
+    },
+    "guido_gobino": {
+      "title": "Guido Gobino",
+      "desc": "Experience the magic of handmade chocolate from Turin. Witness how Guido Gobino combines heritage and creativity in every piece.",
+      "button": "Learn More"
+    },
+    "bending_spoons": {
+      "title": "Bending Spoons",
+      "desc": "Enter Italy’s most innovative tech hub. See how Bending Spoons creates world-class digital experiences for millions worldwide.",
+      "button": "Learn More"
+    },
+    "cailler": {
+      "title": "Cailler",
+      "desc": "Delve into Switzerland’s oldest chocolate brand. Cailler invites you on a sensory journey through tradition and flavor.",
+      "button": "Learn More"
+    },
+    "button": "Discover More"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "button": "Discover More"
+  },
+  "contact": {
+    "title": "Join the Experience",
+    "text": "Step inside the world of true craftsmanship. \nRegister now to be part of our exclusive Factour experiences — private factory visits, artisan workshops, and behind-the-scenes journeys across Italy and beyond. \nLimited spots. Unlimited impressions. Your story begins inside.",
+    "form": {
+      "firstName": "Full Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    }
+  },
+  "footer": {
+    "button": "Actual Tours",
+    "getInTouch": "Get in Touch",
+    "email": "factour.official@gmail.com",
+    "rights": "All Rights Reserved.",
+    "slogan": "Pushing the Boundaries"
+  }
+}
